@@ -33,6 +33,10 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/059e17ef-5361-4862-99f3-401bf02a191f" />
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/268df705-8816-4a26-bc3f-3c7701a5652f" />
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/6646dd3d-acfa-4127-9035-0cf5a2a7d3d7" />
+
 
 To measure IL
 
